@@ -19,7 +19,7 @@ Before using these scripts, ensure that you have the following installed:
 - MySQL Server
 - Sakila sample database
 
-[⬆️ Back to top](#database-inspection-scripts-for-cis-controls)
+[⬆️ Back to top](#sakila-sample-database-inspection-scripts-for-cis-controls)
 
 ## Installation
 
@@ -35,7 +35,7 @@ Navigate to the cloned repository:
 cd sakila_inspection_cis_controls
 ```
 
-[⬆️ Back to top](#database-inspection-scripts-for-cis-controls)
+[⬆️ Back to top](#sakila-sample-database-inspection-scripts-for-cis-controls)
 
 ## Scripts and Inspected Controls
 
@@ -46,7 +46,7 @@ The following scripts are included in this repository to help you inspect variou
 3. `list_databases.sql`: Lists all databases and their access privileges for each user (Control 14: Controlled Access Based on the Need to Know)
 4. `list_tables.sql`: Lists all tables in the Sakila database and their access privileges for each user (Control 14: Controlled Access Based on the Need to Know)
 
-[⬆️ Back to top](#database-inspection-scripts-for-cis-controls)
+[⬆️ Back to top](#sakila-sample-database-inspection-scripts-for-cis-controls)
 
 ## Usage
 
@@ -58,7 +58,7 @@ SOURCE path/to/script.sql;
 
 Replace `path/to/script.sql` with the path to the script you want to run.
 
-[⬆️ Back to top](#database-inspection-scripts-for-cis-controls)
+[⬆️ Back to top](#sakila-sample-database-inspection-scripts-for-cis-controls)
 
 ## References
 
@@ -66,7 +66,7 @@ Replace `path/to/script.sql` with the path to the script you want to run.
 - [MySQL Documentation](https://dev.mysql.com/doc/)
 - [Sakila Sample Database](https://dev.mysql.com/doc/sakila/en/)
 
-[⬆️ Back to top](#database-inspection-scripts-for-cis-controls)
+[⬆️ Back to top](#sakila-sample-database-inspection-scripts-for-cis-controls)
 
 ## Contact
 
@@ -75,10 +75,10 @@ For any further inquiries or questions, feel free to reach out:
 - Email: [ah8664383@gmail.com](ah8664383@gmail.com)
 - LinkedIn: [https://www.linkedin.com/in/albertoscode/](https://www.linkedin.com/in/albertoscode/)
 
-[⬆️ Back to top](#database-inspection-scripts-for-cis-controls)
+[⬆️ Back to top](#sakila-sample-database-inspection-scripts-for-cis-controls)
 
 ## Sakila Sample Database Version
 
 The scripts in this repository have been tested on the Sakila sample database v1.0. However, they should work on other versions of the Sakila sample database with minimal modifications. Please ensure that you test and modify the scripts as necessary for your specific version of the Sakila sample database.
 
-[⬆️ Back to top](#database-inspection-scripts-for-cis-controls)
+[⬆️ Back to top](#sakila-sample-database-inspection-scripts-for-cis-controls)
