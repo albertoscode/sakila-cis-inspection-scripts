@@ -1,6 +1,6 @@
 # Sakila Sample Database Inspection Scripts for CIS Controls
 
-This repository contains a collection of scripts to help you inspect the Sakila sample database based on the CIS Critical Security Controls. These scripts are designed to provide a starting point for implementing and assessing various aspects of your database's security configuration.
+This repository contains a collection of scripts to inspect the Sakila sample database based on the CIS Critical Security Controls. These scripts are designed to provide a starting point for implementing and assessing various aspects of your database's security configuration.
 
 ## Table of Contents
 
@@ -39,7 +39,7 @@ cd sakila_inspection_cis_controls
 
 ## Scripts and Inspected Controls
 
-The following scripts are included in this repository to help you inspect various aspects of the Sakila sample database based on the CIS Critical Security Controls. For each script, the corresponding control that it inspects is mentioned in parentheses.
+The following scripts are included in this repository to inspect various aspects of the Sakila sample database based on the CIS Critical Security Controls. For each script, the corresponding control that it inspects is mentioned in parentheses.
 
 1. `list_users.sql`: Lists MySQL user accounts and their privileges (Control 4: Controlled Use of Administrative Privileges; Control 14: Controlled Access Based on the Need to Know)
 2. `password_policy.sql`: Retrieves the current MySQL password policy settings (Control 16: Account Monitoring and Control)
@@ -62,7 +62,7 @@ Replace `path/to/script.sql` with the path to the script you want to run.
 
 ## Sakila Sample Database Version
 
-The scripts in this repository have been tested on the Sakila sample database v1.0. However, they should work on other versions of the Sakila sample database with minimal modifications. Please ensure that you test and modify the scripts as necessary for your specific version of the Sakila sample database.
+The scripts in this repository have been tested on the Sakila sample database v1.0. However, they should work on other versions of the Sakila sample database with minimal modifications.
 
 [⬆️ Back to top](#sakila-sample-database-inspection-scripts-for-cis-controls)
 
