@@ -8,9 +8,9 @@ This repository contains a collection of scripts to help you inspect the Sakila 
 - [Installation](#installation)
 - [Scripts and Inspected Controls](#scripts-and-inspected-controls)
 - [Usage](#usage)
+- [Sakila Sample Database Version](#sakila-sample-database-version)
 - [References](#references)
 - [Contact](#contact)
-- [Sakila Sample Database Version](#sakila-sample-database-version)
 
 ## Prerequisites
 
@@ -60,6 +60,12 @@ Replace `path/to/script.sql` with the path to the script you want to run.
 
 [⬆️ Back to top](#sakila-sample-database-inspection-scripts-for-cis-controls)
 
+## Sakila Sample Database Version
+
+The scripts in this repository have been tested on the Sakila sample database v1.0. However, they should work on other versions of the Sakila sample database with minimal modifications. Please ensure that you test and modify the scripts as necessary for your specific version of the Sakila sample database.
+
+[⬆️ Back to top](#sakila-sample-database-inspection-scripts-for-cis-controls)
+
 ## References
 
 - [CIS Critical Security Controls](https://www.cisecurity.org/controls/cis-controls-list/)
@@ -74,11 +80,5 @@ For any further inquiries or questions, feel free to reach out:
 
 - Email: [ah8664383@gmail.com](ah8664383@gmail.com)
 - LinkedIn: [https://www.linkedin.com/in/albertoscode/](https://www.linkedin.com/in/albertoscode/)
-
-[⬆️ Back to top](#sakila-sample-database-inspection-scripts-for-cis-controls)
-
-## Sakila Sample Database Version
-
-The scripts in this repository have been tested on the Sakila sample database v1.0. However, they should work on other versions of the Sakila sample database with minimal modifications. Please ensure that you test and modify the scripts as necessary for your specific version of the Sakila sample database.
 
 [⬆️ Back to top](#sakila-sample-database-inspection-scripts-for-cis-controls)
