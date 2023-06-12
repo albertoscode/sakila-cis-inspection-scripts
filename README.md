@@ -1,6 +1,6 @@
 # Sakila Sample Database Inspection Scripts for CIS Controls
 
-This repository contains a collection of scripts to inspect the Sakila sample database based on the CIS Critical Security Controls. These scripts are designed to provide a starting point for implementing and assessing various aspects of your database's security configuration.
+This repository contains a collection of scripts to inspect the Sakila sample database based on the CIS Critical Security Controls. These scripts are designed to provide a starting point for implementing and assessing various aspects of the database's security configuration.
 
 ## Table of Contents
 
